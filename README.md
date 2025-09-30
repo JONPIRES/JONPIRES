@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a spring boot project
 - 🌱 I’m currently learning  Java
-- 👯 I’m looking to collaborate on projects that can impact others
+- I’m looking to collaborate on projects that can impact others
 
 - 📫 How to reach me:
   - https://www.linkedin.com/in/jonathan-software-engineer/
